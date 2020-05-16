@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1588011012 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+
+1588531214 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\lista.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Szemely.h"
+	"cim.h"
+	"lista.h"
+	"ListaElem.h"
+
+1589546048 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\cim.cpp
+
+1588016403 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\phones.cpp
+	<iostream>
+	<stdlib.h>
+	"Phones.h"
+
+1589546583 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\phones.h
+	"string.h"
+	<string>
+
+1589567437 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\cim.h
+	<iostream>
+	"string.h"
+	<string>
+
+1589565337 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\szemely.h
+	"string.h"
+	"Phones.h"
+	<string>
+
+1588014887 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\string5.h
+	<iostream>
+
+1588531193 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\lista.h
+	"string.h"
+	"Szemely.h"
+	"cim.h"
+	"ListaElem.h"
+
+1589547051 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\szemely.cpp
+	"Szemely.h"
+	<iostream>
+	"string.h"
+	"Phones.h"
+
+1588014938 source:c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\string5.cpp
+	<iostream>
+	<cstring>
+	"string5.h"
+
+1589557527 c:\users\kocsis zsombor\desktop\prog2 házifeladat\telefonkönyv\listaelem.h
+	"Szemely.h"
+
